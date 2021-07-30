@@ -1,4 +1,10 @@
 <?php
+/*
+* Author: Fida Al Hasan
+* https://github.com/fida02/php-whois
+* Live Demo: http://tools.webcarezone.com/whois/
+* License: MIT
+*/
 
 $domain = $_GET['domain'];
 
